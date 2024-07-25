@@ -3,6 +3,6 @@ numpy
 pandas
 scipy
 tensorboardX
-torch==1.4.0
+torch==2.2.0
 dgl==0.4.3post2
 
